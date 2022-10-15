@@ -110,6 +110,10 @@ section h3 {
 .box {
     border: 1px solid;
     color: #33caff;
+    /*tambah kie*/
+    display: flex;
+    justify-content: space-between;
+    
 }
 
 .box .col-4 {
@@ -129,6 +133,4 @@ section h3 {
     font-size: 50px;
 }
 
-.box .col-4 {
-    margin: 20px 0;
-}
+
