@@ -115,6 +115,8 @@ section h3 {
 .box {
     padding: 0px 10px;
     color: #33caff;
+    border: 1px solid;
+    color: #33caff;
     display: flex;
     justify-content: space-between;
     
@@ -176,4 +178,9 @@ footer {
     100% {
         transform: rotate(360deg);
     }
+}
+
+.container img {
+    display: flex;
+    align-items: center;
 }
