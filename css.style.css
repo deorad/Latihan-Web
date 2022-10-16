@@ -105,6 +105,7 @@ section h3 {
     color: #666;
     word-spacing: 2px;
     line-height: 25px;
+    margin-bottom: 20px;
 }
 
 .service {
@@ -115,7 +116,6 @@ section h3 {
 .box {
     padding: 0px 10px;
     color: #33caff;
-    border: 1px solid;
     color: #33caff;
     display: flex;
     justify-content: space-between;
@@ -182,5 +182,7 @@ footer {
 
 .container img {
     display: flex;
+    margin: 0 150px;
     align-items: center;
 }
+
